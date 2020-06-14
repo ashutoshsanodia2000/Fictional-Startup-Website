@@ -1,0 +1,8 @@
+.container-fluid{
+  padding:0 15% 2%;
+}
+/* Navigation Bar */
+.navbar{
+    padding-bottom: 4.5rem;
+    padding-top:2rem;
+}
